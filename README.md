@@ -14,3 +14,13 @@
 4. Enter y2
 
 ## Sample Output
+Enter x1: 2
+Enter y1: 4
+Enter x2: 5
+Enter y2: 3
+
+
+## Author
+Name: Zia Samantha B. Ronulo
+Section: 8-Acacia
+
