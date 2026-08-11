@@ -14,11 +14,11 @@
 4. Enter y2
 
 ## Sample Output
- Enter x1: 3
- Enter y1: 5
- Enter x2: 4
- Enter y2: 2
- The distance between the two points is 3.16
+ - Enter x1: 3
+ - Enter y1: 5
+ - Enter x2: 4
+ - Enter y2: 2
+ - The distance between the two points is 3.16
  
 ## Author
 Name: Zia Samantha B. Ronulo
